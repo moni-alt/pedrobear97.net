@@ -1,0 +1,79 @@
+
+.navigation_bar {
+  list-style-type:none;
+  overflow: none;
+  background-color: purple;
+  float: right;
+  font-size: 23px;
+}
+
+li {
+ float: left;
+
+}
+
+li a {
+  display: block;
+  color: red;
+  text-align:center;
+  padding: 14px 14px;
+  text-decoration: none;
+  margin: 10px;
+}
+
+li a:hover {
+
+  background-color: red;
+  color: blue;
+  text-decoration: underline;
+}
+.regjistrohu {
+  background-color: blue;
+  color: red;
+}
+.llogo
+{
+  margin-right: 80px;
+  margin-left: 100px;
+  margin-top: -25px;
+  margin-bottom: -150px;
+  width: 150px;
+  height: 150px;
+  border-color: blue red;
+  border-radius: 15px;
+  border-style: solid;
+}
+
+ul{
+  list-style-type:none;
+  float: left;
+  margin: 50px;
+}
+
+
+.stream {
+	color: red;
+}
+	
+li{
+  color: #00004E; 
+}
+h1{
+  
+  font-size: 50px;
+
+}
+hr{
+  box-shadow: 2px 2px blue;
+  width:100%;
+}
+
+body{
+	background-color: purple;
+}
+.purple{
+	color: blue;
+}
+.cyan{
+	color: cyan;
+}
